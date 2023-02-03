@@ -5,7 +5,7 @@ Quickly buile a fake backend.
 For test use.
 
 1. Edit the `backend.yaml`
-2. Put the sample response json into static
+2. Put the sample response json into `static`
 3. Start servie with `go run main.go`
 4. Enjoy it
 
