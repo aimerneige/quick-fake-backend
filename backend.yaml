@@ -1,0 +1,8 @@
+- endpoint: "user"
+  method: "get"
+  response: "./static/user-get.json"
+  status: 200
+- endpoint: "user"
+  method: "post"
+  response: "./static/user-post.json"
+  status: 201

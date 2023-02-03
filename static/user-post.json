@@ -1,0 +1,11 @@
+{
+    "status": 201,
+    "msg": "Created",
+    "data": {
+        "id": 12,
+        "name": "Aimer Neige",
+        "age": 18,
+        "account": "aimerneige",
+        "mail": "aimer.neige@aimerneige.com"
+    }
+}

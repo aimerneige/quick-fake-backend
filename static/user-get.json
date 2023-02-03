@@ -1,0 +1,11 @@
+{
+    "status": 200,
+    "msg": "OK",
+    "data": {
+        "id": 12,
+        "name": "Aimer Neige",
+        "age": 18,
+        "account": "aimerneige",
+        "mail": "aimer.neige@aimerneige.com"
+    }
+}
